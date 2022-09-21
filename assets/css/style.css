@@ -1,0 +1,53 @@
+#muur{
+    width: 565px;
+    height: 300px;
+    background-color: #d9d9d9;
+   /* display: flex; */
+}
+.steen{
+    background-color: orange;
+    width: 80px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.KleineSteen{
+    background-color: orange;
+    width: 31px;
+    height: 25px;
+    display:inline-block;
+    margin-bottom: 5px;
+}
+.KleineSteen2{
+    background-color: orange;
+    width: 31px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+.SteenZonderMargin{
+    background-color: orange;
+    width: 80px;
+    height: 25px;
+    display:inline-block;
+    margin-bottom: 5px;
+}
+
+.gat{
+    background-color: #d9d9d9;
+    width: 80px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
+#RodeSteen{
+    background-color: red;
+    width: 80px;
+    height: 25px;
+    display:inline-block;
+    margin-right: 5px;
+    margin-bottom: 5px;
+}
